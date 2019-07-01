@@ -1,8 +1,11 @@
 # TheHungryBirdsSemaphore
 Trabalho de Implementação da Disciplina Programação Concorrente
 
-Link para as classes implementadas em Java:
+Link para as classes implementadas em Java com semáforos:
 https://github.com/juarezmeneses/TheHungryBirdsSemaphore/tree/master/src/br/ufc/mdcc/thehungrybirds
+
+Link para as classes implementadas em Java com monitores:
+https://github.com/juarezmeneses/TheHungryBirdsMonitor/tree/master/src/br/ufc/mdcc/thehungrybirds
 
 Link para os esboços de soluções apresentados no relatório:
 https://github.com/juarezmeneses/TheHungryBirdsSemaphore/tree/master/src/br/ufc/mdcc/solutionssketches
